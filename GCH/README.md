@@ -1,4 +1,3 @@
-# Grivotech
 To setup on your local system:
 1. Install and setup xampp in your system.
 2. Clone the Repo in XAMPP->htdocs folder.
